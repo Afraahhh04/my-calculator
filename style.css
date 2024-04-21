@@ -1,0 +1,31 @@
+button {
+    
+    background-color:#333333;
+    border: none;
+    color:white;
+    padding:20px;
+    text-decoration:none;
+  display:inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor:pointer;
+    border-radius: 50%;
+    
+  }
+  .button:hover {background-color: #3e8e41}
+  .button:active {
+    background-color: #3e8e41;
+    transform: translateY(4px)
+  }
+
+  .all{
+    /* margin:auto; */
+    /* width:60%; padding: 30px; */
+    width: 250px;
+    height:300px;
+    background: #000;
+    text-align: center;
+    padding-top:6rem;
+
+  }
+  
