@@ -28,6 +28,7 @@ button {
     text-align: center;
     padding-top:6rem;
 
+
   }
   .first .button {
     background-color:#A8A8A8;
@@ -43,6 +44,16 @@ button {
   width: 60px;
   height: 60px;
 }
+
+  @media screen and (max-width: 800px) {
+    .all {
+      height: auto;
+      max-width: 100%;
+    }
+
+  }
+    
+
 
 
 
