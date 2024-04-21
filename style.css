@@ -6,7 +6,7 @@ button {
     padding:20px;
     text-decoration:none;
   display:inline-block;
-    font-size: 16px;
+    font-size: 13px;
     margin: 4px 2px;
     cursor:pointer;
     border-radius: 50%;
@@ -22,10 +22,28 @@ button {
     /* margin:auto; */
     /* width:60%; padding: 30px; */
     width: 250px;
-    height:300px;
-    background: #000;
+    height:500px;
+    background:black;
+    color: white;
     text-align: center;
     padding-top:6rem;
 
   }
+  .first .button {
+    background-color:#A8A8A8;
+    color: black;
+  }
+ .btn-group .special {
+  background-color: #FF9503;
+  color: white;
+}
+.btn-group .rare {
+  font-size: 20px;
+  border-radius: 50%;
+  width: 110px;
+  height: 60px;
+}
+
+
+
   
